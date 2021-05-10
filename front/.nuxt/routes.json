@@ -3,18 +3,21 @@
     "name": "profile",
     "path": "/profile",
     "component": "C:\\\\SW\\\\workspace\\\\ch1\\\\front\\\\pages\\\\profile.vue",
-    "chunkName": "pages/profile"
+    "chunkName": "pages/profile",
+    "_name": "_d7f06704"
   },
   {
     "name": "signup",
     "path": "/signup",
     "component": "C:\\\\SW\\\\workspace\\\\ch1\\\\front\\\\pages\\\\signup.vue",
-    "chunkName": "pages/signup"
+    "chunkName": "pages/signup",
+    "_name": "_552d815a"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\SW\\\\workspace\\\\ch1\\\\front\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_7cd4ba67"
   }
 ]
